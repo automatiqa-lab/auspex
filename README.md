@@ -1,6 +1,6 @@
 # Auspex
 
-A prediction harness for supply chain operations. Connect a table, pick a model, read the signs.
+A prediction and forecasting harness for supply chain operations. Connect a table, pick a model, read the signs.
 
 The auspex was the Roman diviner who read patterns in bird flight. This one reads patterns in operational records - shipment histories, demand curves, quality logs, supplier ledgers - and returns predictions with their confidence intervals attached. It reads signs; it does not certify outcomes.
 
