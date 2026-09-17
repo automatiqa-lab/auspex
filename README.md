@@ -13,3 +13,5 @@ Code lands here at v0.1. Until then, this repository is the reserved plot and th
 ## Licence
 
 Apache-2.0.
+
+The argument these projects sit under: [The Intelligent Orchestration Manifesto](https://www.automatiqa.io/manifesto/).
