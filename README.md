@@ -6,7 +6,7 @@ The auspex was the Roman diviner who read patterns in bird flight. This one read
 
 ## Status
 
-In design, built in public under the [Automatiqa](https://automatiqa.io) lab. Project page: [automatiqa.io/auspex](https://www.automatiqa.io/auspex/).
+In design, built in public under the [Automatiqa](https://www.automatiqa.io) lab. Project page: [automatiqa.io/auspex](https://www.automatiqa.io/auspex/).
 
 Code lands here at v0.1. Until then, this repository is the reserved plot and the sign on it.
 
